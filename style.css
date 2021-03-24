@@ -55,3 +55,18 @@ img {border-radius: 10px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #FFEBC2}
+
+th {
+  background-color: #FFC145;
+  color: white;
