@@ -8,12 +8,7 @@ p{font-size: 20px;
 h4 {text-align: center; font-size: 25px; color: #914727;}
 ul { list-style-type: circle; font-size: 20px; }
 ol {font-size: 20px;}
-table {border: dashed 2px black; width: 60%; text-align: center; }
-tr:nth-child(even) 
-tr, td, th{
-  border: solid 1px black; padding: 10px; 
-}
-table {border-collapse:collapse;}
+
 
 img {border-radius: 10px;
 }
