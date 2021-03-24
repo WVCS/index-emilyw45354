@@ -57,7 +57,7 @@ img {border-radius: 10px;
 }
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 60%;
 }
 
 th, td {
@@ -69,4 +69,4 @@ tr:nth-child(even){background-color: #FFEBC2}
 
 th {
   background-color: #FFC145;
-  color: white;
+  color: #fffff;
